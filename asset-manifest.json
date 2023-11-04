@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/luxshana/quiz.git/static/css/main.073c9b0a.css",
-    "main.js": "/luxshana/quiz.git/static/js/main.55fdf446.js",
+    "main.js": "/luxshana/quiz.git/static/js/main.59be837d.js",
     "static/js/787.0f7446c0.chunk.js": "/luxshana/quiz.git/static/js/787.0f7446c0.chunk.js",
     "index.html": "/luxshana/quiz.git/index.html",
     "main.073c9b0a.css.map": "/luxshana/quiz.git/static/css/main.073c9b0a.css.map",
-    "main.55fdf446.js.map": "/luxshana/quiz.git/static/js/main.55fdf446.js.map",
+    "main.59be837d.js.map": "/luxshana/quiz.git/static/js/main.59be837d.js.map",
     "787.0f7446c0.chunk.js.map": "/luxshana/quiz.git/static/js/787.0f7446c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.55fdf446.js"
+    "static/js/main.59be837d.js"
   ]
 }
